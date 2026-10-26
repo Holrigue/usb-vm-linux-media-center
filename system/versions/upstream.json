@@ -2,12 +2,12 @@
   "schema": 1,
   "firefox": {
     "channel": "stable",
-    "version": "158.0",
+    "version": "158.0.1",
     "source": "https://product-details.mozilla.org/1.0/firefox_versions.json"
   },
   "steam_client_linux": {
     "channel": "stable",
-    "build": "1791918634",
+    "build": "1792618285",
     "source": "https://client-update.akamai.steamstatic.com/steam_client_ubuntu12"
   },
   "steam_launcher_linux": {
